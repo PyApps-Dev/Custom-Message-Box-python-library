@@ -33,7 +33,7 @@ pip install customtkinter
 Install the library:
 
 ```Bash
-pip install https://github.com/xibuoya/Custom-Message-Box-python-library/archive/refs/heads/main.zip
+pip install Custom-message-box
 ```
 
 Or download the script.
